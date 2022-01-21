@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/merncrudapp/static/css/main.60b62253.css",
+    "main.js": "/merncrudapp/static/js/main.4493dd7f.js",
+    "index.html": "/merncrudapp/index.html",
+    "main.60b62253.css.map": "/merncrudapp/static/css/main.60b62253.css.map",
+    "main.4493dd7f.js.map": "/merncrudapp/static/js/main.4493dd7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60b62253.css",
+    "static/js/main.4493dd7f.js"
+  ]
+}
